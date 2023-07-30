@@ -30,5 +30,5 @@ Python 3.9, FastApi, PostgreSQL, sqlalchemy, alembic, Redis.
 
 ####
 ```
-Учебный проект в рамках курса
+Учебный проект в рамках курса по FASTAPI
 ```
