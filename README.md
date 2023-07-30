@@ -18,9 +18,14 @@
 uvicorn app.main:app --reload
 ```
 
-### Документация.
+### Документация
 ```
 - http://IP/docs#/
+```
+
+### Стек
+```
+Python 3.9, FastApi, PostgreSQL, sqlalchemy, alembic, Redis.
 ```
 
 ####
